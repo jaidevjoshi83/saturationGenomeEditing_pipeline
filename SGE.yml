@@ -1,0 +1,21 @@
+name: SGE
+channels:
+  - bioconda
+  - conda-forge
+  - dranew
+  - defaults
+dependencies:
+  - python>=3.6
+  - pip
+  - R>=3.5
+  - jupyter
+  - nb_conda_kernels
+  - notebook
+  - r-irkernel
+  - r-data.table
+  - r-tidyverse
+  - r-pheatmap
+  - fastqc
+  - emboss
+  - seqprep
+  - bclfastq
