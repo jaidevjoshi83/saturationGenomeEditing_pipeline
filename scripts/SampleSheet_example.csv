@@ -1,0 +1,10 @@
+[Data],,,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,Sample_Project,Description,index,index2,GenomeFolder
+X17-lib,X17-lib,,,,,TGAACGCTT,GCTCTATTA,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\Chromosomes
+X17-neg,X17-neg,,,,,TGAACGCTT,TGGGCGACG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\Chromosomes
+X17r1L41-pre,X17r1L41-pre,,,,,TGAACGCTT,GGAGCATTT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\Chromosomes
+X17r1L41-post,X17r1L41-post,,,,,TGAACGCTT,CGTACTAAA,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\Chromosomes
+X17r2L41-pre,X17r2L41-pre,,,,,TGAACGCTT,CAGAGTCCG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\Chromosomes
+X17r2L41-post,X17r2L41-post,,,,,TGAACGCTT,GCTTGTGTG,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\Chromosomes
+X17r3L41-pre,X17r3L41-pre,,,,,TGAACGCTT,ACGCAGATT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\Chromosomes
+X17r3L41-post,X17r3L41-post,,,,,TGAACGCTT,GAGGACGGT,C:\Illumina\MiSeq Reporter\Genomes\PhiX\Illumina\RTA\Sequence\Chromosomes
